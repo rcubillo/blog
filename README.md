@@ -1,2 +1,4 @@
 This is the boilerplate for my gatsby blog.
-https://www.youtube.com/watch?v=8t0vNu2fCCM
+
+I'm using netlify to publish this blog:
+https://jovial-ardinghelli-eb4bed.netlify.com
