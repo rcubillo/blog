@@ -1,8 +1,4 @@
-I'm using netlify to publish this blog:
-https://jovial-ardinghelli-eb4bed.netlify.com
-
-
-# :moneybag: Gatsby-Blog :moneybag:
+# Gatsby-Blog
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -15,7 +11,7 @@ https://jovial-ardinghelli-eb4bed.netlify.com
 * React
 
 ## Overview
-A personal site with a blog powered by markdown. 
+A personal site with a blog powered by markdown. Here is the deployed link of the app using netlify:https://jovial-ardinghelli-eb4bed.netlify.com. I'm using contentful con manage my post. 
 
 ## Contributing Guidelines
 
