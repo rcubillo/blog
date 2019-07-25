@@ -11,7 +11,7 @@
 * React
 
 ## Overview
-A personal site with a blog powered by markdown. Here is the deployed link of the app using netlify:https://jovial-ardinghelli-eb4bed.netlify.com. I'm using contentful con manage my post. 
+A personal site with a blog powered by markdown. Here is the deployed link of the app using netlify:https://jovial-ardinghelli-eb4bed.netlify.com. I'm using contentful manage my posts. 
 
 ## Contributing Guidelines
 
